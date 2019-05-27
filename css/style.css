@@ -78,14 +78,7 @@ a {
 a:hover {
   color: gold;
 }
-.stars {
-  background-color: gold;
-  position: absolute;
-  height: 15px;
-  width: 15px;
-  border-radius: 50%;
-  animation-iteration-count: infinite;
-}
+
 .star-one {
   margin-top: 3%;
   margin-left: 10.75%;
